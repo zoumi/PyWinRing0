@@ -10,7 +10,7 @@ Requirements:
 
 Attentions:
 -----------
-You must put the WinRing0.sys and the WinRing0.dll in the same directory of the windows executable file whitch interprets the .py scripts.(for example the directory of C:\Program Files\Python33\python.exe)       
+You must put the WinRing0.sys and the WinRing0.dll in the same directory of the windows executable file which interprets the .py scripts.(for example the directory of C:\Program Files\Python33\python.exe)       
 Examples:
 ---------
     from winring0 import *
