@@ -1,7 +1,7 @@
-PyWingRing0
+PyWinRing0
 ===========
 
-Python Wrap For WingRing0
+Python Wrap For WinRing0
 
 Requirements:
 -------------
@@ -24,7 +24,7 @@ Examples:
     DeinitializeOls()
 
 ***
-这是WingRing0的python封装
+这是WinRing0的python封装
 
 要使用它你必须有:
 -----------------
